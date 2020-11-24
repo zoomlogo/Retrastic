@@ -1,0 +1,24 @@
+/* Main body */
+body {
+    background-color: rgb(80, 80, 80);
+}
+
+/* Heading */
+.heading {
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: cornsilk;
+}
+
+.games {
+    align-items: center;
+}
+
+.name {
+    font-family: sans-serif;
+    color: cornsilk;
+    text-align: center;
+    background-color: #444;
+    font-size: x-large;
+}
